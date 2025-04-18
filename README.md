@@ -54,3 +54,7 @@
         "comment": "Started this morning to fix this problem."
    }
 ```
+8. Rode os testes:
+   ```bash
+    docker compose exec app php artisan test
+   ```
